@@ -29,7 +29,7 @@ export default function Hero() {
       link: "https://www.linkedin.com/in/deeksha-verma-835209150/",
     },
     { icon: GitHubIcon, name: "GitHub", link: "https://github.com/deekshaVer" },
-    { icon: ResumeIcon, name: "Resume", link: "/Deeksha_Resume13_04_26.pdf" },
+    { icon: ResumeIcon, name: "Resume", link: "/Deeksha_Resume.pdf" },
     {
       icon: MailIcon,
       name: "Email",
